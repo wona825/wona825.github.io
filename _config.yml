@@ -30,7 +30,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minimal-mistakes-jekyll
+# 추후 수정 -> theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
 
